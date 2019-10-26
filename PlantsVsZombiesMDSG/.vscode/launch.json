@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MainMenu",
+            "request": "launch",
+            "mainClass": "game.MainMenu",
+            "projectName": "PlantsVsZombiesMDSG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "PlantsVsZombiesMDSG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "game.test",
+            "projectName": "PlantsVsZombiesMDSG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GameWindow",
+            "request": "launch",
+            "mainClass": "game.GameWindow",
+            "projectName": "PlantsVsZombiesMDSG"
+        }
+    ]
+}
